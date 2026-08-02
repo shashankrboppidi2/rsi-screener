@@ -1,0 +1,24 @@
+{
+  "run_utc": "2026-08-02T22:41:29.408723+00:00",
+  "source": "yahoo",
+  "requested": 5135,
+  "ranked": 3390,
+  "unranked": 89,
+  "fetch_failures": 3,
+  "sectors_resolved": 3381,
+  "min_mcap_filter": 50000000.0,
+  "market_cap_resolved": 3390,
+  "ma_coverage": {
+    "ma_200d": 3267,
+    "ma_1y": 3224,
+    "ma_2y": 3090,
+    "ma_3y": 2995,
+    "ma_4y": 2935
+  },
+  "median_bars_available": 1255,
+  "decile1_rsi_ceiling": 36.59,
+  "decile10_rsi_floor": 64.29,
+  "hook_confirmed_in_d1": 41,
+  "asof": "2026-07-31",
+  "data_age_days": 2
+}
