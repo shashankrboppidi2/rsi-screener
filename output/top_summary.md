@@ -1,40 +1,40 @@
-Ranked 667 candidates from 3776 symbols (trend weight 0.50, RSI<= decile 3)
+Ranked 741 candidates from 3776 symbols (trend weight 0.50, RSI<= decile 3)
 
 | Sector | Ticker | Company | RSI | 52wHi | vs 200d | vs 4y | Score |
 |---|---|---|---|---|---|---|---|
-| Basic Materials | NASDAQ:NWPX | NWPX Infrastructure, Inc. | 38.0 | -23% | 29% | 143% | 93 |
-| Basic Materials | NYSE:UAMY | United States Antimony Corpo | 44.8 | -68% | -30% | 114% | 86 |
-| Basic Materials | NASDAQ:ALTO | Alto Ingredients, Inc. | 38.8 | -30% | 9% | 64% | 84 |
-| Communication Services | NYSE:EVC * | Entravision Communications C | 35.5 | -33% | 64% | 170% | 96 |
-| Communication Services | NYSE:TDAY * | USA TODAY Co., Inc. | 31.7 | -22% | 6% | 82% | 90 |
-| Communication Services | NASDAQ:ATEX | Anterix Inc. | 46.6 | -15% | 89% | 158% | 86 |
-| Consumer Cyclical | NYSE:RSI | Rush Street Interactive, Inc | 37.1 | -26% | 12% | 128% | 93 |
-| Consumer Cyclical | AMEX:ELA | Envela Corporation | 22.7 | -44% | -6% | 99% | 93 |
-| Consumer Cyclical | NASDAQ:GTX * | Garrett Motion Inc. | 39.6 | -20% | 26% | 154% | 93 |
-| Consumer Defensive | NASDAQ:APEI | American Public Education, I | 36.2 | -26% | -4% | 108% | 92 |
-| Consumer Defensive | NASDAQ:LINC | Lincoln Educational Services | 24.7 | -46% | -16% | 82% | 91 |
-| Consumer Defensive | NASDAQ:MAMA * | Mama's Creations, Inc. | 44.1 | -16% | 16% | 142% | 89 |
-| Energy | NYSE:AROC | Archrock, Inc. | 46.8 | -17% | 8% | 81% | 80 |
-| Energy | NYSE:DTM * | DT Midstream, Inc. | 45.9 | -9% | 4% | 72% | 80 |
-| Energy | NYSE:TGS * | Transportadora de Gas del Su | 39.2 | -20% | -8% | 40% | 76 |
-| Financial Services | NASDAQ:HUT * | Hut 8 Corp. | 41.2 | -36% | 18% | 233% | 94 |
-| Financial Services | NASDAQ:WULF * | TeraWulf Inc. | 44.2 | -40% | -2% | 180% | 90 |
-| Financial Services | NASDAQ:SNEX * | StoneX Group Inc. | 39.8 | -28% | 12% | 110% | 90 |
-| Healthcare | NASDAQ:LQDA * | Liquidia Corporation | 40.0 | -18% | 55% | 301% | 95 |
-| Healthcare | NASDAQ:TNGX | Tango Therapeutics, Inc. | 41.8 | -22% | 40% | 196% | 93 |
-| Healthcare | NASDAQ:MIRM * | Mirum Pharmaceuticals, Inc. | 40.9 | -22% | 7% | 115% | 90 |
-| Industrials | NYSE:PBI | Pitney Bowes Inc. | 37.0 | -11% | 28% | 134% | 93 |
-| Industrials | NASDAQ:MYRG * | MYR Group, Inc. | 36.4 | -33% | 5% | 95% | 90 |
-| Industrials | NASDAQ:STRL | Sterling Infrastructure, Inc | 45.0 | -42% | 12% | 198% | 90 |
-| Real Estate | NASDAQ:DHC | Diversified Healthcare Trust | 40.5 | -13% | 21% | 155% | 92 |
-| Real Estate | NYSE:OUT * | OUTFRONT Media Inc. | 33.9 | -11% | 11% | 84% | 90 |
-| Real Estate | NYSE:CTRE | CareTrust REIT, Inc. | 36.3 | -11% | 2% | 52% | 82 |
-| Technology | NASDAQ:DAVE | Dave Inc. | 41.4 | -24% | 34% | 249% | 94 |
-| Technology | NASDAQ:LASR * | nLIGHT, Inc. | 39.8 | -38% | -7% | 142% | 92 |
-| Technology | NASDAQ:AIP * | Arteris, Inc. | 42.0 | -42% | 22% | 173% | 92 |
-| Utilities | NASDAQ:DGXX | Digi Power X Inc. - Common S | 45.8 | -53% | -1% | 94% | 83 |
-| Utilities | NYSE:ETR * | Entergy Corporation | 45.2 | -8% | 4% | 60% | 78 |
-| Utilities | NYSE:NI | NiSource Inc | 35.4 | -13% | -5% | 31% | 74 |
+| Basic Materials | NASDAQ:NWPX * | NWPX Infrastructure, Inc. | 32.6 | -27% | 20% | 128% | 94 |
+| Basic Materials | NYSE:PRM | Perimeter Solutions, SA | 42.8 | -17% | 8% | 132% | 85 |
+| Basic Materials | NASDAQ:KALU * | Kaiser Aluminum Corporation | 40.1 | -21% | 9% | 84% | 85 |
+| Communication Services | NYSE:EVC * | Entravision Communications C | 30.2 | -40% | 43% | 140% | 96 |
+| Communication Services | NYSE:TDAY | USA TODAY Co., Inc. | 28.2 | -28% | -4% | 66% | 88 |
+| Communication Services | NASDAQ:ECHO | EchoStar Corporation | 41.3 | -39% | -19% | 121% | 87 |
+| Consumer Cyclical | NASDAQ:GTX * | Garrett Motion Inc. | 30.7 | -27% | 14% | 130% | 95 |
+| Consumer Cyclical | AMEX:ELA * | Envela Corporation | 17.6 | -51% | -18% | 75% | 90 |
+| Consumer Cyclical | NYSE:TPR * | Tapestry, Inc. | 34.7 | -21% | -5% | 91% | 90 |
+| Consumer Defensive | NASDAQ:MAMA * | Mama's Creations, Inc. | 40.9 | -20% | 10% | 128% | 88 |
+| Consumer Defensive | NASDAQ:APEI * | American Public Education, I | 40.4 | -25% | -4% | 108% | 87 |
+| Consumer Defensive | NASDAQ:LINC | Lincoln Educational Services | 19.9 | -54% | -28% | 56% | 86 |
+| Energy | NYSE:EFXT * | Enerflex Ltd | 39.2 | -28% | -1% | 118% | 89 |
+| Energy | NYSE:SEI | Solaris Energy Infrastructur | 40.9 | -36% | -10% | 123% | 87 |
+| Energy | NYSE:AROC | Archrock, Inc. | 32.8 | -24% | -2% | 64% | 87 |
+| Financial Services | NASDAQ:HUT | Hut 8 Corp. | 40.9 | -39% | 11% | 211% | 91 |
+| Financial Services | NASDAQ:WULF | TeraWulf Inc. | 39.9 | -46% | -12% | 149% | 90 |
+| Financial Services | NASDAQ:ESQ * | Esquire Financial Holdings,  | 36.2 | -13% | 5% | 68% | 85 |
+| Healthcare | NASDAQ:LQDA | Liquidia Corporation | 35.8 | -25% | 39% | 264% | 96 |
+| Healthcare | NASDAQ:TNGX * | Tango Therapeutics, Inc. | 36.5 | -27% | 27% | 173% | 94 |
+| Healthcare | NASDAQ:KOD | Kodiak Sciences Inc | 41.5 | -17% | 19% | 254% | 90 |
+| Industrials | NYSE:AGX | Argan, Inc. | 35.4 | -37% | -1% | 187% | 96 |
+| Industrials | NASDAQ:STRL | Sterling Infrastructure, Inc | 38.6 | -48% | -0% | 164% | 92 |
+| Industrials | NASDAQ:POWL * | Powell Industries, Inc. | 38.9 | -39% | 0% | 161% | 92 |
+| Real Estate | NASDAQ:DHC | Diversified Healthcare Trust | 35.9 | -17% | 14% | 142% | 93 |
+| Real Estate | NYSE:OUT * | OUTFRONT Media Inc. | 35.8 | -12% | 8% | 80% | 88 |
+| Real Estate | NASDAQ:ILPT | Industrial Logistics Propert | 39.4 | -10% | 22% | 87% | 86 |
+| Technology | NASDAQ:TTMI | TTM Technologies, Inc. | 34.9 | -50% | -6% | 174% | 96 |
+| Technology | NASDAQ:AIP | Arteris, Inc. | 32.7 | -51% | 2% | 128% | 94 |
+| Technology | NASDAQ:FLEX * | Flex Ltd. | 38.8 | -32% | 19% | 165% | 92 |
+| Utilities | NYSE:ETR | Entergy Corporation | 35.5 | -10% | 1% | 55% | 83 |
+| Utilities | NYSE:VST | Vistra Corp. | 37.2 | -37% | -15% | 39% | 75 |
+| Utilities | NASDAQ:AEP | American Electric Power Comp | 30.7 | -12% | -3% | 29% | 75 |
 
 `*` = RSI turning up (hook confirmed)
 
