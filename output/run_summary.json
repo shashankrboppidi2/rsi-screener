@@ -1,24 +1,24 @@
 {
-  "run_utc": "2026-08-22T09:18:58.012432+00:00",
+  "run_utc": "2026-08-29T08:33:29.662730+00:00",
   "source": "yahoo",
-  "requested": 5139,
-  "ranked": 3776,
-  "unranked": 79,
+  "requested": 5129,
+  "ranked": 3790,
+  "unranked": 78,
   "fetch_failures": 1,
-  "sectors_resolved": 3767,
+  "sectors_resolved": 3780,
   "min_mcap_filter": 50000000.0,
-  "market_cap_resolved": 3776,
+  "market_cap_resolved": 3790,
   "ma_coverage": {
-    "ma_200d": 3648,
-    "ma_1y": 3598,
-    "ma_2y": 3431,
-    "ma_3y": 3324,
-    "ma_4y": 3247
+    "ma_200d": 3654,
+    "ma_1y": 3604,
+    "ma_2y": 3435,
+    "ma_3y": 3328,
+    "ma_4y": 3252
   },
-  "median_bars_available": 1255,
-  "decile1_rsi_ceiling": 37.31,
-  "decile10_rsi_floor": 68.27,
-  "hook_confirmed_in_d1": 119,
-  "asof": "2026-08-21",
-  "data_age_days": 1
+  "median_bars_available": 1254,
+  "decile1_rsi_ceiling": 37.93,
+  "decile10_rsi_floor": 66.52,
+  "hook_confirmed_in_d1": 64,
+  "asof": "2026-08-27",
+  "data_age_days": 2
 }
