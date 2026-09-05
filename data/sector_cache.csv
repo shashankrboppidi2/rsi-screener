@@ -148,6 +148,7 @@ AHT,Ashford Hospitality Trust Inc,Real Estate,REIT - Hotel & Motel,United States
 AI,"C3.ai, Inc.",Technology,Software - Infrastructure,United States,,yfinance
 AIAI,AIAI Holdings Corporation,Industrials,Conglomerates,United States,70662761.0,yfinance
 AIB,AIB Data Centers Inc.,Technology,Software - Infrastructure,United States,,yfinance
+AIBZ,Bitzero Holdings Inc.,Technology,Software - Infrastructure,Canada,55122366.0,yfinance
 AIDX,"20/20 Biolabs, Inc.",Healthcare,Medical Devices,United States,12251198.0,yfinance
 AIFA,All In FutureTech Alliance Inc.,Technology,Software - Infrastructure,United States,6377521.0,yfinance
 AIFC,AI Financial Corporation,Technology,Software - Infrastructure,United States,139836511.0,yfinance
@@ -1535,6 +1536,7 @@ ELMD,"Electromed, Inc.",Healthcare,Medical Devices,United States,8280064.0,yfina
 ELME,Elme Communities,Real Estate,REIT - Residential,United States,88857883.0,yfinance
 ELMT,The Elmet Group Co.,Industrials,Aerospace & Defense,United States,29979863.0,yfinance
 ELOG,Eastern International Ltd.,Industrials,Integrated Freight & Logistics,China,12832000.0,yfinance
+ELOX,"Eloxx Pharmaceuticals, Inc.",Healthcare,Biotechnology,United States,3436314.0,yfinance
 ELPW,Elong Power Holding Limited,Industrials,Electrical Equipment & Parts,China,3030757.0,yfinance
 ELS,"Equity LifeStyle Properties, Inc.",Real Estate,REIT - Residential,United States,194064619.0,yfinance
 ELSE,"Electro-Sensors, Inc.",Technology,Scientific & Technical Instruments,United States,3532423.0,yfinance
@@ -1605,6 +1607,7 @@ ERIE,Erie Indemnity Company,Financial Services,Insurance Brokers,United States,4
 ERII,"Energy Recovery, Inc.",Industrials,Pollution & Treatment Controls,United States,51545259.0,yfinance
 ERNA,Ernexa Therapeutics Inc.,Healthcare,Biotechnology,United States,1166333.0,yfinance
 ERO,Ero Copper Corp.,Basic Materials,Copper,Canada,104277968.0,yfinance
+EROC,"ERock, Inc.",Industrials,Specialty Industrial Machinery,United States,48174023.0,yfinance
 EROK,EagleRock Land LLC,Energy,Oil & Gas Equipment & Services,United States,26355259.0,yfinance
 ES,Eversource Energy,Utilities,Utilities - Regulated Electric,United States,376080025.0,yfinance
 ESAB,ESAB Corporation,Industrials,Metal Fabrication,United States,62135967.0,yfinance
@@ -1629,6 +1632,7 @@ ETON,"Eton Pharmaceuticals, Inc.",Healthcare,Drug Manufacturers - Specialty & Ge
 ETOR,eToro Group Ltd.,Financial Services,Capital Markets,Israel,66806610.0,yfinance
 ETR,Entergy Corporation,Utilities,Utilities - Regulated Electric,United States,466631498.0,yfinance
 ETS,Elite Express Holding Inc.,Industrials,Trucking,United States,44550005.0,yfinance
+ETSS,Energy Transition Special Opportunities,Financial Services,Shell Companies,United States,15000000.0,yfinance
 ETSY,"Etsy, Inc.",Consumer Cyclical,Internet Retail,United States,94896231.0,yfinance
 ETX,Eaton Vance Municipal Income 2028 Term Trust,Financial Services,Asset Management,United States,10896063.0,yfinance
 EU,enCore Energy Corp.,Energy,Uranium,United States,,yfinance
@@ -1832,6 +1836,7 @@ FRPT,"Freshpet, Inc.",Consumer Defensive,Packaged Foods,United States,49142791.0
 FRSH,Freshworks Inc.,Technology,Software - Application,United States,252359292.0,yfinance
 FRST,Primis Financial Corp.,Financial Services,Banks - Regional,United States,24878621.0,yfinance
 FRT,Federal Realty Investment Trust,Real Estate,REIT - Retail,United States,86389197.0,yfinance
+FRTT,Fort Technology Inc.,Consumer Cyclical,Internet Retail,Canada,15042582.0,yfinance
 FRVO,Fervo Energy Company,Utilities,Utilities - Renewable,United States,286859562.0,yfinance
 FSBC,Five Star Bancorp,Financial Services,Banks - Regional,United States,24101153.0,yfinance
 FSBW,"FS Bancorp, Inc.",Financial Services,Banks - Regional,United States,7414542.0,yfinance
@@ -2371,6 +2376,7 @@ INGM,Ingram Micro Holding Corporation,Technology,Information Technology Services
 INGN,"Inogen, Inc.",Healthcare,Medical Devices,United States,27074516.0,yfinance
 INGR,Ingredion Incorporated,Consumer Defensive,Packaged Foods,United States,63059061.0,yfinance
 INHD,Inno Holdings Inc.,Basic Materials,Steel,Hong Kong,4520698.0,yfinance
+INIO,Innio N.V.,Industrials,Specialty Industrial Machinery,Germany,750000000.0,yfinance
 INKT,"MiNK Therapeutics, Inc.",Healthcare,Biotechnology,United States,4981899.0,yfinance
 INLF,INLIF Limited,Industrials,Specialty Industrial Machinery,China,1046875.0,yfinance
 INLX,"Intellinetics, Inc.",Technology,Software - Application,United States,4494994.0,yfinance
@@ -2686,6 +2692,7 @@ LFCR,"Lifecore Biomedical, Inc.",Healthcare,Drug Manufacturers - Specialty & Gen
 LFMD,"LifeMD, Inc.",Healthcare,Health Information Services,United States,48362510.0,yfinance
 LFST,"LifeStance Health Group, Inc.",Healthcare,Medical Care Facilities,United States,381834432.0,yfinance
 LFT,"Lument Finance Trust, Inc.",Real Estate,REIT - Mortgage,United States,52439463.0,yfinance
+LFTO,"Liftoff Mobile, Inc.",Communication Services,Advertising Agencies,United States,169331527.0,yfinance
 LFUS,"Littelfuse, Inc.",Technology,Electronic Components,United States,25398747.0,yfinance
 LFVN,LifeVantage Corporation,Consumer Defensive,Packaged Foods,United States,12615822.0,yfinance
 LFWD,Lifeward Ltd.,Healthcare,Medical Devices,Israel,2814409.0,yfinance
@@ -3173,6 +3180,7 @@ NGVT,Ingevity Corporation,Basic Materials,Specialty Chemicals,United States,3437
 NHC,National HealthCare Corporation,Healthcare,Medical Care Facilities,United States,15619641.0,yfinance
 NHI,"National Health Investors, Inc.",Real Estate,REIT - Healthcare Facilities,United States,,yfinance
 NHIC,NewHold Investment Corp III,,,,20905100.0,yfinance
+NHIV,NewHold Investment Corp IV,Financial Services,Shell Companies,United States,20766250.0,yfinance
 NHP,"National Healthcare Properties, Inc.",Real Estate,REIT - Healthcare Facilities,United States,73553433.0,yfinance
 NHTC,Natural Health Trends Corp.,Consumer Cyclical,Internet Retail,United States,8577848.0,yfinance
 NI,NiSource Inc.,Utilities,Utilities - Regulated Gas,United States,479439245.0,yfinance
@@ -3466,6 +3474,7 @@ OXM,"Oxford Industries, Inc.",Consumer Cyclical,Apparel Manufacturing,United Sta
 OXY,Occidental Petroleum Corporation,Energy,Oil & Gas E&P,United States,994634701.0,yfinance
 OZK,Bank OZK,Financial Services,Banks - Regional,United States,109165875.0,yfinance
 P,"Everpure, Inc.",Technology,Computer Hardware,United States,,yfinance
+PAAI,"Paradium AI, Inc.",Communication Services,Internet Content & Information,United States,47610653.0,yfinance
 PAAS,Pan American Silver Corp.,Basic Materials,Gold,Canada,421350000.0,yfinance
 PAC,"Grupo Aeroportuario del Pacífico, S.A.B. de C.V.",Industrials,Airports & Air Services,Mexico,51922658.0,yfinance
 PACB,"Pacific Biosciences of California, Inc.",Healthcare,Medical Devices,United States,310601688.0,yfinance
@@ -3509,6 +3518,7 @@ PBH,Prestige Consumer Healthcare In,Healthcare,Drug Manufacturers - Specialty & 
 PBHC,"Pathfinder Bancorp, Inc.",Financial Services,Banks - Regional,United States,4876213.0,yfinance
 PBI,Pitney Bowes Inc.,Industrials,Integrated Freight & Logistics,United States,137090212.0,yfinance
 PBK,PowerBank Corporation,Utilities,Utilities - Renewable,Canada,53956787.0,yfinance
+PBLS,"Parabilis Medicines, Inc.",Healthcare,Biotechnology,United States,121952030.0,yfinance
 PBM,Psyence Biomedical Ltd.,Healthcare,Biotechnology,Canada,,yfinance
 PBR,Petróleo Brasileiro S.A. - Petrobras,Energy,Oil & Gas Integrated,Brazil,3721115691.0,yfinance
 PBT,Permian Basin Royalty Trust,Energy,Oil & Gas Midstream,United States,46608796.0,yfinance
@@ -3770,6 +3780,7 @@ QNC,Quantum eMotion Corp.,Technology,Software - Infrastructure,Canada,219369670.
 QNCX,"Quince Therapeutics, Inc.",Healthcare,Biotechnology,United States,977963.0,yfinance
 QNME,Lakeside Holding Limited,Industrials,Integrated Freight & Logistics,United States,34427559.0,yfinance
 QNST,"QuinStreet, Inc.",Communication Services,Advertising Agencies,United States,57445370.0,yfinance
+QNT,Quantinuum Inc.,Technology,Software - Application,United States,36893857.0,yfinance
 QNTM,Quantum BioPharma Ltd.,Healthcare,Biotechnology,Canada,6398605.0,yfinance
 QRHC,Quest Resource Holding Corporation,Industrials,Waste Management,United States,21073513.0,yfinance
 QRVO,"Qorvo, Inc.",Technology,Semiconductors,United States,88221633.0,yfinance
@@ -4099,6 +4110,7 @@ SGLY,Singularity Future Technology Ltd.,Industrials,Integrated Freight & Logisti
 SGML,Sigma Lithium Corporation,Basic Materials,Other Industrial Metals & Mining,Canada,112064646.0,yfinance
 SGMT,Sagimet Biosciences Inc.,Healthcare,Biotechnology,United States,61184313.0,yfinance
 SGP,"SpyGlass Pharma, Inc.",Healthcare,Biotechnology,United States,33433355.0,yfinance
+SGRX,Bit Origin Ltd,,,Singapore,,yfinance
 SGRY,"Surgery Partners, Inc.",Healthcare,Medical Care Facilities,United States,130788162.0,yfinance
 SGU,"Star Group, L.P.",Energy,Oil & Gas Refining & Marketing,United States,32833933.0,yfinance
 SHAK,Shake Shack Inc.,Consumer Cyclical,Restaurants,United States,40350732.0,yfinance
@@ -4294,6 +4306,7 @@ SSBI,Summit State Bank,Financial Services,Banks - Regional,United States,6766616
 SSD,"Simpson Manufacturing Company, ",Basic Materials,Lumber & Wood Production,United States,,yfinance
 SSII,"SS Innovations International, Inc.",Healthcare,Medical Devices,India,200131535.0,yfinance
 SSM,Sono Group N.V.,Consumer Cyclical,Auto Manufacturers,Germany,1424834.0,yfinance
+SSMR,Sunshine Silver Mining & Refining Company,Basic Materials,Other Industrial Metals & Mining,United States,143726603.0,yfinance
 SSNC,"SS&C Technologies Holdings, Inc.",Technology,Software - Application,United States,234654996.0,yfinance
 SSP,E.W. Scripps Company (The),Communication Services,Broadcasting,United States,,yfinance
 SSRM,SSR Mining Inc.,Basic Materials,Gold,United States,207491071.0,yfinance
@@ -4905,6 +4918,7 @@ WGS,GeneDx Holdings Corp.,Healthcare,Diagnostics & Research,United States,296880
 WH,"Wyndham Hotels & Resorts, Inc.",Consumer Cyclical,Lodging,United States,74211122.0,yfinance
 WHD,"Cactus, Inc.",Energy,Oil & Gas Equipment & Services,United States,69633144.0,yfinance
 WHG,Westwood Holdings Group Inc,Financial Services,Asset Management,United States,,yfinance
+WHK,WhiteHawk Minerals Corp.,Energy,Oil & Gas Midstream,United States,23795450.0,yfinance
 WHLR,"Wheeler Real Estate Investment Trust, Inc.",Real Estate,REIT - Retail,United States,929217.0,yfinance
 WHR,Whirlpool Corporation,Consumer Cyclical,"Furnishings, Fixtures & Appliances",United States,,yfinance
 WHWK,"Whitehawk Therapeutics, Inc.",Healthcare,Biotechnology,United States,49452463.0,yfinance
@@ -4998,6 +5012,7 @@ XFOR,"X4 Pharmaceuticals, Inc.",Healthcare,Biotechnology,United States,94319696.
 XGN,Exagen Inc.,Healthcare,Diagnostics & Research,United States,24159839.0,yfinance
 XHLD,"TEN Holdings, Inc.",Communication Services,Broadcasting,United States,11977443.0,yfinance
 XHR,"Xenia Hotels & Resorts, Inc.",Real Estate,REIT - Hotel & Motel,United States,92245835.0,yfinance
+XLAB,Exascale Labs Holdings Inc.,Technology,Software - Infrastructure,United States,32456000.0,yfinance
 XLO,"Xilio Therapeutics, Inc.",Healthcare,Biotechnology,United States,6575139.0,yfinance
 XMAX,XMax Inc.,Consumer Cyclical,"Furnishings, Fixtures & Appliances",United States,63602326.0,yfinance
 XMTR,"Xometry, Inc.",Industrials,Industrial Distribution,United States,53770546.0,yfinance
