@@ -436,6 +436,7 @@ ATRA,"Atara Biotherapeutics, Inc.",Healthcare,Biotechnology,United States,901017
 ATRC,"AtriCure, Inc.",Healthcare,Medical Instruments & Supplies,United States,50866294.0,yfinance
 ATRO,Astronics Corporation,Industrials,Aerospace & Defense,United States,38448408.0,yfinance
 ATS,ATS Corporation,Industrials,Specialty Industrial Machinery,Canada,97007132.0,yfinance
+ATTT,Atlas Trinity Tech Limited,,,,5874743.0,yfinance
 ATXG,Addentax Group Corp.,Industrials,Integrated Freight & Logistics,China,1031435.0,yfinance
 ATYR,"aTyr Pharma, Inc.",Healthcare,Biotechnology,United States,98051212.0,yfinance
 AU,AngloGold Ashanti plc,Basic Materials,Gold,United States,505746148.0,yfinance
@@ -842,6 +843,7 @@ CACC,Credit Acceptance Corporation,Financial Services,Credit Services,United Sta
 CACI,CACI International Inc,Technology,Information Technology Services,United States,22091305.0,yfinance
 CADL,"Candel Therapeutics, Inc.",Healthcare,Biotechnology,United States,73270239.0,yfinance
 CAE,CAE Inc.,Industrials,Aerospace & Defense,Canada,321579686.0,yfinance
+CAES,"Cantor Equity Partners VII, Inc.",,,,25600000.0,yfinance
 CAG,"Conagra Brands, Inc.",Consumer Defensive,Packaged Foods,United States,478565642.0,yfinance
 CAH,"Cardinal Health, Inc.",Healthcare,Medical Distribution,United States,234205855.0,yfinance
 CAI,"Caris Life Sciences, Inc.",Healthcare,Biotechnology,United States,282595186.0,yfinance
@@ -1280,6 +1282,7 @@ CWT,California Water Service Group,Utilities,Utilities - Regulated Water,United 
 CX,"Cemex, S.A.B. de C.V. Sponsored",Basic Materials,Building Materials,Mexico,,yfinance
 CXAI,CXApp Inc.,Technology,Software - Application,United States,109086651.0,yfinance
 CXDO,"Crexendo, Inc.",Communication Services,Telecom Services,United States,32415373.0,yfinance
+CXII,Churchill Capital Corp XII,Financial Services,Shell Companies,United States,41750000.0,yfinance
 CXM,"Sprinklr, Inc.",Technology,Software - Application,United States,,yfinance
 CXT,"Crane NXT, Co.",Industrials,Specialty Industrial Machinery,United States,57542367.0,yfinance
 CXW,"CoreCivic, Inc.",Industrials,Security & Protection Services,United States,98888460.0,yfinance
@@ -2202,8 +2205,10 @@ HOG,"Harley-Davidson, Inc.",Consumer Cyclical,Recreational Vehicles,United State
 HOLO,MicroCloud Hologram Inc.,Technology,Software - Application,China,22512360.0,yfinance
 HOMB,"Home BancShares, Inc.",Financial Services,Banks - Regional,United States,200460000.0,yfinance
 HON,Honeywell International Inc.,Industrials,Conglomerates,United States,316940010.0,yfinance
+HONA,Honeywell Aerospace Inc.,,,,316952725.0,yfinance
 HOOD,"Robinhood Markets, Inc.",Financial Services,Capital Markets,United States,790630234.0,yfinance
 HOPE,"Hope Bancorp, Inc.",Financial Services,Banks - Regional,United States,127741836.0,yfinance
+HOS,"Hornbeck Offshore Services, Inc",Industrials,Marine Shipping,United States,327000000.0,yfinance
 HOUR,"Hour Loop, Inc.",Consumer Cyclical,Internet Retail,United States,35191890.0,yfinance
 HOV,"Hovnanian Enterprises, Inc.",Consumer Cyclical,Residential Construction,United States,5071686.0,yfinance
 HOVR,New Horizon Aircraft Ltd.,Industrials,Aerospace & Defense,Canada,66825837.0,yfinance
@@ -2608,6 +2613,7 @@ KRNY,Kearny Financial Corp.,Financial Services,Banks - Regional,United States,62
 KRO,"Kronos Worldwide, Inc.",Basic Materials,Specialty Chemicals,United States,115053116.0,yfinance
 KROS,"Keros Therapeutics, Inc.",Healthcare,Biotechnology,United States,19791837.0,yfinance
 KRRO,"Korro Bio, Inc.",Healthcare,Biotechnology,United States,14422571.0,yfinance
+KRSA,"Korsana Biosciences, Inc.",Healthcare,Biotechnology,United States,,yfinance
 KRT,Karat Packaging Inc.,Consumer Cyclical,Packaging & Containers,United States,19963731.0,yfinance
 KRUS,"Kura Sushi USA, Inc.",Consumer Cyclical,Restaurants,United States,11149786.0,yfinance
 KRYS,"Krystal Biotech, Inc.",Healthcare,Biotechnology,United States,29479756.0,yfinance
@@ -3311,6 +3317,7 @@ NWS,News Corporation,Communication Services,Entertainment,United States,18060649
 NWSA,News Corporation,Communication Services,Entertainment,United States,360636074.0,yfinance
 NWTG,"Newton Golf Company, Inc.",Consumer Cyclical,Leisure,United States,4592063.0,yfinance
 NX,Quanex Building Products Corporation,Industrials,Building Products & Equipment,United States,45927965.0,yfinance
+NXAT,Nexus Advanced Technologies Inc.,Industrials,Conglomerates,Cayman Islands,3236567.0,yfinance
 NXB,NextBoat Inc.,Consumer Cyclical,Auto & Truck Dealerships,United States,24999012.0,yfinance
 NXDR,"Nextdoor Holdings, Inc.",Communication Services,Internet Content & Information,United States,253892530.0,yfinance
 NXDT,NexPoint Diversified Real Estate Trust,Real Estate,REIT - Diversified,United States,51723778.0,yfinance
@@ -4261,6 +4268,7 @@ SPAI,Safe Pro Group Inc.,Industrials,Aerospace & Defense,United States,20618817.
 SPB,"Spectrum Brands Holdings, Inc.",Consumer Defensive,Household & Personal Products,United States,22995596.0,yfinance
 SPCB,SuperCom Ltd.,Industrials,Security & Protection Services,Israel,6280452.0,yfinance
 SPCE,"Virgin Galactic Holdings, Inc.",Industrials,Aerospace & Defense,United States,128537275.0,yfinance
+SPCX,Space Exploration Technologies Corp.,Industrials,Aerospace & Defense,United States,7696293669.0,yfinance
 SPFI,"South Plains Financial, Inc.",Financial Services,Banks - Regional,United States,18839105.0,yfinance
 SPG,"Simon Property Group, Inc.",Real Estate,REIT - Retail,United States,324281912.0,yfinance
 SPGI,S&P Global Inc.,Financial Services,Financial Data & Stock Exchanges,United States,294800000.0,yfinance
@@ -5050,6 +5058,7 @@ YDKG,Yueda Digital Holding,Communication Services,Advertising Agencies,United St
 YELP,Yelp Inc.,Communication Services,Internet Content & Information,United States,54990704.0,yfinance
 YETI,"YETI Holdings, Inc.",Consumer Cyclical,Leisure,United States,75758323.0,yfinance
 YEXT,"Yext, Inc.",Technology,Software - Infrastructure,United States,100248116.0,yfinance
+YFOR,YYForce Inc.,Industrials,Specialty Business Services,Singapore,7837380.0,yfinance
 YHC,LQR House Inc.,Consumer Defensive,Beverages - Wineries & Distilleries,United States,1303838.0,yfinance
 YHGJ,Yunhong Green CTI Ltd.,Consumer Cyclical,Packaging & Containers,United States,2609244.0,yfinance
 YHNA,YHN Acquisition I Limited,Financial Services,Shell Companies,Hong Kong,4285821.0,yfinance
