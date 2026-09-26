@@ -1,40 +1,40 @@
-Ranked 783 candidates from 3801 symbols (trend weight 0.50, RSI<= decile 3)
+Ranked 758 candidates from 3798 symbols (trend weight 0.50, RSI<= decile 3)
 
 | Sector | Ticker | Company | RSI | 52wHi | vs 200d | vs 4y | Score |
 |---|---|---|---|---|---|---|---|
-| Basic Materials | NASDAQ:NWPX | NWPX Infrastructure, Inc. | 32.0 | -32% | 5% | 104% | 89 |
-| Basic Materials | NASDAQ:CENX | Century Aluminum Company | 32.4 | -43% | -22% | 81% | 86 |
-| Basic Materials | NASDAQ:ALOY | REalloys Inc. | 35.8 | -68% | -27% | 65% | 79 |
-| Communication Services | NASDAQ:ATEX | Anterix Inc. | 32.4 | -29% | 37% | 111% | 89 |
-| Communication Services | NYSE:EVC * | Entravision Communications C | 34.1 | -42% | 27% | 128% | 88 |
-| Communication Services | NYSE:LYV | Live Nation Entertainment, I | 33.4 | -11% | 3% | 43% | 77 |
-| Consumer Cyclical | NYSE:RSI | Rush Street Interactive, Inc | 28.2 | -32% | -3% | 99% | 92 |
-| Consumer Cyclical | NASDAQ:CTRN | Citi Trends, Inc. | 28.5 | -27% | 7% | 86% | 90 |
-| Consumer Cyclical | NYSE:EAT | Brinker International, Inc. | 34.7 | -23% | 18% | 104% | 86 |
-| Consumer Defensive | NASDAQ:APEI | American Public Education, I | 33.4 | -28% | -10% | 95% | 87 |
-| Consumer Defensive | NASDAQ:MAMA * | Mama's Creations, Inc. | 32.8 | -36% | -15% | 77% | 85 |
-| Consumer Defensive | NYSE:USFD * | US Foods Holding Corp. | 29.8 | -16% | 2% | 53% | 83 |
-| Energy | NASDAQ:BKR | Baker Hughes Company | 34.5 | -17% | -2% | 47% | 77 |
-| Energy | NYSE:AM | Antero Midstream Corporation | 35.8 | -8% | 2% | 50% | 75 |
-| Energy | NYSE:DEC | Diversified Energy Company | 37.7 | -22% | -2% | 60% | 74 |
-| Financial Services | NYSE:ENVA | Enova International, Inc. | 25.2 | -34% | -3% | 88% | 92 |
-| Financial Services | NYSE:BCS | Barclays PLC | 33.5 | -12% | 0% | 83% | 85 |
-| Financial Services | NYSE:BNY * | The Bank of New York Mellon  | 36.2 | -7% | 14% | 102% | 83 |
-| Healthcare | NASDAQ:TRVI | Trevi Therapeutics, Inc. | 28.5 | -23% | 5% | 157% | 95 |
-| Healthcare | NASDAQ:KOD | Kodiak Sciences Inc | 29.9 | -30% | -3% | 189% | 95 |
-| Healthcare | NASDAQ:PRAX | Praxis Precision Medicines,  | 30.6 | -23% | -5% | 199% | 95 |
-| Industrials | NYSE:PL | Planet Labs PBC | 29.8 | -68% | -40% | 86% | 90 |
-| Industrials | NASDAQ:ATRO * | Astronics Corporation | 34.4 | -30% | 4% | 155% | 89 |
-| Industrials | NYSE:AGX * | Argan, Inc. | 34.2 | -51% | -24% | 114% | 87 |
-| Real Estate | NASDAQ:ILPT | Industrial Logistics Propert | 32.4 | -17% | 9% | 73% | 85 |
-| Real Estate | NYSE:OUT * | OUTFRONT Media Inc. | 32.3 | -16% | -1% | 68% | 84 |
-| Real Estate | NYSE:VTR | Ventas, Inc. | 31.9 | -14% | 2% | 51% | 81 |
-| Technology | NYSE:YOU | Clear Secure, Inc. | 22.3 | -39% | -18% | 35% | 80 |
-| Technology | NASDAQ:DAKT | Daktronics, Inc. | 27.9 | -37% | -15% | 37% | 79 |
-| Technology | NASDAQ:RMNI * | Rimini Street, Inc. | 34.7 | -22% | 9% | 24% | 67 |
-| Utilities | NYSE:ETR | Entergy Corporation | 34.3 | -13% | -3% | 49% | 77 |
-| Utilities | NYSE:MDU | MDU Resources Group, Inc. Co | 28.7 | -17% | -9% | 28% | 75 |
-| Utilities | NYSE:ATO | Atmos Energy Corporation | 29.5 | -16% | -7% | 21% | 71 |
+| Basic Materials | NASDAQ:CENX * | Century Aluminum Company | 32.5 | -44% | -24% | 77% | 84 |
+| Basic Materials | NYSE:KGC * | Kinross Gold Corporation | 35.9 | -34% | -15% | 90% | 82 |
+| Basic Materials | NYSE:RIO * | Rio Tinto Plc | 37.3 | -14% | 2% | 49% | 72 |
+| Communication Services | NYSE:EVC | Entravision Communications C | 31.4 | -45% | 18% | 115% | 90 |
+| Communication Services | NYSE:AD | Array Digital Infrastructure | 30.6 | -22% | -7% | 42% | 79 |
+| Communication Services | NYSE:LUMN | Lumen Technologies, Inc. | 33.4 | -52% | -25% | 22% | 67 |
+| Consumer Cyclical | NYSE:RSI * | Rush Street Interactive, Inc | 20.7 | -42% | -17% | 68% | 90 |
+| Consumer Cyclical | NYSE:SGHC | Super Group (SGHC) Limited | 27.4 | -23% | -1% | 83% | 90 |
+| Consumer Cyclical | NASDAQ:CTRN | Citi Trends, Inc. | 21.3 | -36% | -6% | 63% | 89 |
+| Consumer Defensive | NASDAQ:APEI | American Public Education, I | 34.0 | -32% | -14% | 84% | 84 |
+| Consumer Defensive | NYSE:USFD | US Foods Holding Corp. | 31.0 | -16% | 2% | 52% | 81 |
+| Consumer Defensive | NASDAQ:MAMA | Mama's Creations, Inc. | 36.3 | -35% | -14% | 77% | 79 |
+| Energy | NYSE:FTI * | TechnipFMC plc | 38.1 | -11% | 7% | 121% | 81 |
+| Energy | NYSE:DTM | DT Midstream, Inc. | 32.5 | -18% | -8% | 50% | 79 |
+| Energy | NYSE:AM | Antero Midstream Corporation | 35.4 | -9% | 0% | 48% | 75 |
+| Financial Services | NYSE:ENVA | Enova International, Inc. | 28.3 | -35% | -5% | 85% | 89 |
+| Financial Services | NYSE:BNY | The Bank of New York Mellon  | 31.5 | -9% | 11% | 96% | 88 |
+| Financial Services | NYSE:VIRT * | Virtu Financial, Inc. | 31.3 | -21% | 9% | 78% | 86 |
+| Healthcare | NASDAQ:MNPR | Monopar Therapeutics Inc. | 24.6 | -31% | 12% | 179% | 97 |
+| Healthcare | NASDAQ:PRAX | Praxis Precision Medicines,  | 26.0 | -27% | -11% | 178% | 96 |
+| Healthcare | NASDAQ:DNTH | Dianthus Therapeutics, Inc. | 28.1 | -24% | 11% | 175% | 95 |
+| Industrials | NYSE:AGX * | Argan, Inc. | 31.2 | -54% | -29% | 99% | 88 |
+| Industrials | NYSE:NVRI | Enviri Corporation | 31.6 | -20% | -4% | 78% | 86 |
+| Industrials | NYSE:NPKI * | NPK International Inc. | 25.0 | -28% | -16% | 42% | 83 |
+| Real Estate | NASDAQ:ILPT | Industrial Logistics Propert | 28.3 | -20% | 4% | 65% | 86 |
+| Real Estate | NYSE:OUT | OUTFRONT Media Inc. | 30.8 | -17% | -2% | 65% | 84 |
+| Real Estate | NYSE:CBL | CBL & Associates Properties, | 36.3 | -13% | 17% | 98% | 82 |
+| Technology | NASDAQ:DAKT | Daktronics, Inc. | 29.8 | -39% | -17% | 33% | 75 |
+| Technology | NYSE:YOU * | Clear Secure, Inc. | 35.2 | -36% | -15% | 40% | 72 |
+| Technology | NASDAQ:RMNI | Rimini Street, Inc. | 31.4 | -25% | 5% | 20% | 68 |
+| Utilities | NYSE:ETR * | Entergy Corporation | 27.6 | -16% | -6% | 43% | 81 |
+| Utilities | NYSE:D * | Dominion Energy, Inc. | 25.1 | -14% | -4% | 17% | 72 |
+| Utilities | NYSE:EMA | Emera Incorporated | 29.3 | -13% | -6% | 23% | 72 |
 
 `*` = RSI turning up (hook confirmed)
 
