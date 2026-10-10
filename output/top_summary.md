@@ -1,40 +1,40 @@
-Ranked 708 candidates from 3811 symbols (trend weight 0.50, RSI<= decile 3)
+Ranked 676 candidates from 3794 symbols (trend weight 0.50, RSI<= decile 3)
 
 | Sector | Ticker | Company | RSI | 52wHi | vs 200d | vs 4y | Score |
 |---|---|---|---|---|---|---|---|
-| Basic Materials | NYSE:MT | Arcelor Mittal NY Registry S | 28.1 | -18% | 4% | 91% | 91 |
-| Basic Materials | NASDAQ:CENX | Century Aluminum Company | 26.0 | -48% | -29% | 63% | 88 |
-| Basic Materials | NYSE:KGC | Kinross Gold Corporation | 33.5 | -37% | -18% | 81% | 85 |
-| Communication Services | NYSE:SPHR | Sphere Entertainment Co. | 32.1 | -27% | -1% | 128% | 90 |
-| Communication Services | NYSE:EVC | Entravision Communications C | 32.8 | -45% | 16% | 113% | 88 |
-| Communication Services | NYSE:TKO | TKO Group Holdings, Inc. | 34.9 | -21% | -10% | 34% | 71 |
-| Consumer Cyclical | NYSE:SGHC | Super Group (SGHC) Limited | 20.9 | -28% | -7% | 71% | 91 |
-| Consumer Cyclical | NYSE:RSI * | Rush Street Interactive, Inc | 27.1 | -42% | -17% | 69% | 88 |
-| Consumer Cyclical | NASDAQ:CTRN | Citi Trends, Inc. | 25.4 | -37% | -8% | 59% | 87 |
-| Consumer Defensive | NASDAQ:MAMA * | Mama's Creations, Inc. | 34.6 | -37% | -17% | 70% | 82 |
-| Consumer Defensive | NASDAQ:PRE | Prenetics Global Limited | 35.5 | -23% | 5% | 58% | 78 |
-| Consumer Defensive | NASDAQ:LINC | Lincoln Educational Services | 26.6 | -61% | -39% | 29% | 76 |
-| Energy | NYSE:FTI | TechnipFMC plc | 34.7 | -14% | 3% | 112% | 86 |
-| Energy | NASDAQ:PAGP | Plains GP Holdings, L.P. - C | 34.5 | -8% | 12% | 62% | 80 |
-| Energy | NYSE:PBT * | Permian Basin Royalty Trust | 37.0 | -13% | 26% | 83% | 80 |
-| Financial Services | NYSE:BNY * | The Bank of New York Mellon  | 28.4 | -12% | 7% | 88% | 90 |
-| Financial Services | NYSE:HSBC * | HSBC Holdings, plc. | 32.2 | -10% | 6% | 91% | 87 |
-| Financial Services | NYSE:SAN * | Banco Santander, S.A. Sponso | 34.0 | -11% | 5% | 104% | 86 |
-| Healthcare | NASDAQ:MNPR | Monopar Therapeutics Inc. | 20.1 | -37% | 2% | 153% | 97 |
-| Healthcare | NASDAQ:TRVI | Trevi Therapeutics, Inc. | 26.1 | -29% | -2% | 135% | 95 |
-| Healthcare | NASDAQ:NBTX | Nanobiotix S.A. - ADSs | 25.1 | -53% | -23% | 118% | 94 |
-| Industrials | NYSE:RTX | RTX Corporation | 24.1 | -18% | -5% | 48% | 85 |
-| Industrials | NASDAQ:WLDN | Willdan Group, Inc. | 30.4 | -46% | -19% | 53% | 83 |
-| Industrials | NASDAQ:ESLT | Elbit Systems Ltd. | 36.8 | -31% | -10% | 92% | 81 |
-| Real Estate | NASDAQ:ILPT * | Industrial Logistics Propert | 27.2 | -24% | -1% | 59% | 86 |
-| Real Estate | NYSE:VTR * | Ventas, Inc. | 28.6 | -16% | -1% | 46% | 82 |
-| Real Estate | NYSE:SPG | Simon Property Group, Inc. | 30.9 | -14% | 0% | 40% | 78 |
-| Technology | NASDAQ:KARO | Karooooo Ltd. | 36.8 | -13% | 15% | 68% | 78 |
-| Technology | NYSE:GRND | Grindr Inc. | 31.0 | -25% | -1% | 13% | 67 |
-| Technology | NASDAQ:GEN | Gen Digital Inc. | 28.3 | -30% | -10% | -5% | 60 |
-| Utilities | NYSE:ATO * | Atmos Energy Corporation | 32.1 | -17% | -9% | 18% | 68 |
-| Utilities | NYSE:FTS * | Fortis Inc. | 34.3 | -9% | -4% | 23% | 68 |
-| Utilities | NYSE:FE | FirstEnergy Corp. | 31.2 | -15% | -7% | 13% | 66 |
+| Basic Materials | NASDAQ:ALM * | Almonty Industries Inc. | 35.7 | -49% | -25% | 143% | 89 |
+| Basic Materials | AMEX:TMQ | Trilogy Metals Inc. | 29.5 | -74% | -30% | 69% | 88 |
+| Basic Materials | NYSE:MT * | Arcelor Mittal NY Registry S | 36.1 | -19% | 3% | 88% | 84 |
+| Communication Services | NYSE:EVC | Entravision Communications C | 25.7 | -50% | 4% | 94% | 94 |
+| Communication Services | NASDAQ:TIGO | Millicom International Cellu | 31.1 | -23% | 0% | 140% | 93 |
+| Communication Services | NYSE:SPHR | Sphere Entertainment Co. | 24.1 | -40% | -18% | 88% | 93 |
+| Consumer Cyclical | NYSE:SGHC | Super Group (SGHC) Limited | 29.1 | -27% | -7% | 70% | 89 |
+| Consumer Cyclical | NYSE:RSI | Rush Street Interactive, Inc | 27.5 | -45% | -21% | 58% | 88 |
+| Consumer Cyclical | NASDAQ:RUSHA | Rush Enterprises, Inc. | 28.8 | -19% | -5% | 34% | 79 |
+| Consumer Defensive | NASDAQ:ANDE | The Andersons, Inc. | 36.5 | -21% | -6% | 32% | 70 |
+| Consumer Defensive | NYSE:TPB * | Turning Point Brands, Inc. | 29.2 | -60% | -36% | 8% | 67 |
+| Consumer Defensive | NYSE:SPB | Spectrum Brands Holdings, In | 31.4 | -14% | -1% | 11% | 67 |
+| Energy | NASDAQ:GLNG | Golar LNG Limited | 38.3 | -16% | -1% | 47% | 74 |
+| Energy | NYSE:EPD | Enterprise Products Partners | 37.4 | -8% | -0% | 34% | 70 |
+| Energy | NYSE:HESM | Hess Midstream LP Class A Re | 24.9 | -21% | -13% | 7% | 68 |
+| Financial Services | NYSE:BNY | The Bank of New York Mellon  | 26.8 | -13% | 4% | 83% | 92 |
+| Financial Services | NYSE:BBVA | Banco Bilbao Vizcaya Argenta | 32.2 | -12% | 7% | 106% | 91 |
+| Financial Services | NYSE:HSBC * | HSBC Holdings, plc. | 29.9 | -13% | 2% | 84% | 90 |
+| Healthcare | NASDAQ:DNTH | Dianthus Therapeutics, Inc. | 23.0 | -29% | 0% | 151% | 98 |
+| Healthcare | NASDAQ:PRAX | Praxis Precision Medicines,  | 27.5 | -33% | -18% | 151% | 96 |
+| Healthcare | NASDAQ:TVTX * | Travere Therapeutics, Inc. | 27.5 | -23% | 15% | 136% | 95 |
+| Industrials | NASDAQ:ESLT | Elbit Systems Ltd. | 29.1 | -35% | -16% | 80% | 90 |
+| Industrials | NASDAQ:ATRO | Astronics Corporation | 34.1 | -31% | -2% | 140% | 90 |
+| Industrials | NYSE:PKE | Park Aerospace Corp. | 26.4 | -31% | -13% | 55% | 88 |
+| Real Estate | NYSE:CBL | CBL & Associates Properties, | 31.2 | -18% | 7% | 83% | 89 |
+| Real Estate | NASDAQ:DHC | Diversified Healthcare Trust | 34.7 | -22% | -1% | 112% | 88 |
+| Real Estate | NASDAQ:ILPT | Industrial Logistics Propert | 32.5 | -23% | -1% | 60% | 84 |
+| Technology | NASDAQ:ONDS | Ondas Inc | 34.9 | -52% | -28% | 94% | 87 |
+| Technology | NASDAQ:CIFR * | Cipher Digital Inc. | 34.2 | -54% | -26% | 83% | 86 |
+| Technology | NASDAQ:QBTS | D-Wave Quantum Inc. | 32.8 | -67% | -29% | 63% | 84 |
+| Utilities | NASDAQ:DGXX | Digi Power X Inc. - Common S | 32.4 | -63% | -20% | 47% | 81 |
+| Utilities | NYSE:EMA | Emera Incorporated | 22.0 | -16% | -10% | 17% | 74 |
+| Utilities | NYSE:NRGV | Energy Vault Holdings, Inc. | 33.4 | -50% | -21% | 29% | 73 |
 
 `*` = RSI turning up (hook confirmed)
 
