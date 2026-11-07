@@ -1,40 +1,40 @@
-Ranked 606 candidates from 3754 symbols (trend weight 0.50, RSI<= decile 3)
+Ranked 645 candidates from 3730 symbols (trend weight 0.50, RSI<= decile 3)
 
 | Sector | Ticker | Company | RSI | 52wHi | vs 200d | vs 4y | Score |
 |---|---|---|---|---|---|---|---|
-| Basic Materials | AMEX:NEWP | New Pacific Metals Corp. | 30.3 | -34% | -4% | 92% | 94 |
-| Basic Materials | NYSE:ARIS | Aris Mining Corporation | 31.5 | -36% | -20% | 100% | 94 |
-| Basic Materials | NASDAQ:SCZM | Santacruz Silver Mining Ltd. | 33.3 | -58% | -23% | 105% | 93 |
-| Communication Services | NYSE:EVC | Entravision Communications C | 31.6 | -55% | -9% | 73% | 90 |
-| Communication Services | NASDAQ:TIGO | Millicom International Cellu | 39.6 | -23% | -2% | 132% | 88 |
-| Communication Services | NASDAQ:GOOGL | Alphabet Inc. | 21.4 | -30% | -18% | 42% | 85 |
-| Consumer Cyclical | NASDAQ:XMAX | XMAX, Inc. | 19.2 | -31% | -18% | 84% | 95 |
-| Consumer Cyclical | NASDAQ:GTX | Garrett Motion Inc. | 26.9 | -42% | -17% | 68% | 92 |
-| Consumer Cyclical | NASDAQ:FLXS | Flexsteel Industries, Inc. | 37.5 | -17% | 16% | 97% | 88 |
-| Consumer Defensive | NASDAQ:APEI | American Public Education, I | 28.8 | -33% | -18% | 72% | 92 |
-| Consumer Defensive | NASDAQ:LAUR | Laureate Education, Inc. | 23.4 | -18% | -7% | 60% | 90 |
-| Consumer Defensive | NASDAQ:SENEA | Seneca Foods Corp. | 35.5 | -23% | 2% | 84% | 89 |
-| Energy | NYSE:PBT | Permian Basin Royalty Trust | 37.1 | -12% | 19% | 80% | 87 |
-| Energy | NYSE:PBR * | Petroleo Brasileiro S.A. Pet | 40.9 | -16% | 18% | 81% | 83 |
-| Energy | NYSE:OII | Oceaneering International, I | 41.1 | -24% | 1% | 60% | 79 |
-| Financial Services | NYSE:BBVA | Banco Bilbao Vizcaya Argenta | 25.8 | -20% | -3% | 83% | 94 |
-| Financial Services | NYSE:SAN | Banco Santander, S.A. Sponso | 22.0 | -25% | -12% | 68% | 92 |
-| Financial Services | NASDAQ:HUT | Hut 8 Corp. | 33.6 | -55% | -28% | 101% | 92 |
-| Healthcare | NASDAQ:URGN | UroGen Pharma Ltd. | 26.4 | -35% | 5% | 90% | 95 |
-| Healthcare | NASDAQ:IMMX | Immix Biopharma, Inc. | 30.2 | -47% | -19% | 94% | 94 |
-| Healthcare | NASDAQ:MNPR | Monopar Therapeutics Inc. | 33.5 | -43% | -9% | 119% | 94 |
-| Industrials | NYSE:FIX | Comfort Systems USA, Inc. | 33.5 | -40% | -23% | 103% | 93 |
-| Industrials | NASDAQ:IESC | IES Holdings, Inc. | 22.8 | -48% | -30% | 64% | 92 |
-| Industrials | NASDAQ:PLPC | Preformed Line Products Comp | 24.8 | -39% | -15% | 62% | 90 |
-| Real Estate | NASDAQ:ILPT | Industrial Logistics Propert | 40.8 | -25% | -6% | 53% | 78 |
-| Real Estate | NASDAQ:ADAM | Adamas Trust, Inc. | 24.5 | -34% | -19% | 6% | 67 |
-| Real Estate | NYSE:FR | First Industrial Realty Trus | 30.9 | -20% | -10% | 8% | 66 |
-| Technology | NYSE:UMC | United Microelectronics Corp | 26.7 | -39% | -1% | 90% | 95 |
-| Technology | NYSE:TWLO | Twilio Inc. | 30.2 | -32% | 9% | 101% | 95 |
-| Technology | NASDAQ:MRVL | Marvell Technology, Inc. | 34.0 | -38% | 7% | 118% | 93 |
-| Utilities | NYSE:KEP | Korea Electric Power Corpora | 34.2 | -56% | -27% | 4% | 62 |
-| Utilities | NASDAQ:CWCO * | Consolidated Water Co. Ltd. | 36.8 | -29% | -14% | 2% | 58 |
-| Utilities | NYSE:OKLO | Oklo Inc. | 28.4 | -82% | -53% | -26% | 55 |
+| Basic Materials | NASDAQ:CLMT | Calumet, Inc | 24.5 | -33% | 1% | 87% | 96 |
+| Basic Materials | NASDAQ:ALM * | Almonty Industries Inc. | 29.3 | -65% | -49% | 61% | 90 |
+| Basic Materials | NYSE:HBM * | Hudbay Minerals Inc. Ordinar | 34.6 | -34% | -16% | 83% | 89 |
+| Communication Services | NYSE:IMAX | Imax Corporation | 36.4 | -15% | 10% | 84% | 87 |
+| Communication Services | NASDAQ:GOOGL * | Alphabet Inc. | 29.9 | -29% | -16% | 44% | 84 |
+| Communication Services | NASDAQ:GOOG * | Alphabet Inc. - Class C Capi | 29.9 | -29% | -16% | 43% | 84 |
+| Consumer Cyclical | NASDAQ:GTX * | Garrett Motion Inc. | 32.0 | -44% | -21% | 61% | 88 |
+| Consumer Cyclical | NYSE:MYE * | Myers Industries, Inc. | 28.7 | -26% | 1% | 50% | 87 |
+| Consumer Cyclical | NASDAQ:KRT | Karat Packaging Inc. | 16.5 | -39% | -7% | 41% | 86 |
+| Consumer Defensive | NASDAQ:APEI | American Public Education, I | 26.4 | -39% | -25% | 57% | 90 |
+| Consumer Defensive | NASDAQ:SENEA * | Seneca Foods Corp. | 34.9 | -27% | -4% | 73% | 87 |
+| Consumer Defensive | NASDAQ:LAUR * | Laureate Education, Inc. | 33.9 | -17% | -5% | 61% | 86 |
+| Energy | NYSE:MPC | Marathon Petroleum Corporati | 30.2 | -23% | 26% | 111% | 95 |
+| Energy | NYSE:DINO | HF Sinclair Corporation | 29.5 | -24% | 23% | 90% | 94 |
+| Energy | NYSE:VLO | Valero Energy Corporation | 31.3 | -25% | 20% | 113% | 94 |
+| Financial Services | NASDAQ:UFCS * | United Fire Group, Inc | 24.3 | -18% | 2% | 65% | 92 |
+| Financial Services | NYSE:WT * | WisdomTree, Inc. | 32.6 | -22% | 2% | 80% | 90 |
+| Financial Services | NYSE:BAP | Credicorp Ltd. | 33.9 | -14% | -2% | 76% | 89 |
+| Healthcare | NASDAQ:NTRA | Natera, Inc. | 28.5 | -29% | 15% | 121% | 96 |
+| Healthcare | NASDAQ:HALO | Halozyme Therapeutics, Inc. | 29.2 | -21% | 22% | 81% | 93 |
+| Healthcare | NASDAQ:RIGL | Rigel Pharmaceuticals, Inc. | 30.1 | -23% | 6% | 83% | 93 |
+| Industrials | NYSE:BE * | Bloom Energy Corporation | 35.7 | -50% | -22% | 161% | 91 |
+| Industrials | NASDAQ:SHIP * | Seanergy Maritime Holdings C | 31.8 | -24% | -4% | 75% | 90 |
+| Industrials | NYSE:SB * | Safe Bulkers, Inc Common Sto | 29.5 | -23% | 1% | 63% | 90 |
+| Real Estate | NASDAQ:DHC | Diversified Healthcare Trust | 30.5 | -27% | -10% | 92% | 94 |
+| Real Estate | NYSE:CBL | CBL & Associates Properties, | 35.5 | -20% | 2% | 74% | 86 |
+| Real Estate | NASDAQ:ILPT | Industrial Logistics Propert | 26.0 | -35% | -18% | 33% | 81 |
+| Technology | NASDAQ:STX | Seagate Technology Holdings  | 24.5 | -58% | -34% | 108% | 97 |
+| Technology | NYSE:DELL * | Dell Technologies Inc. | 28.8 | -44% | -2% | 134% | 97 |
+| Technology | NASDAQ:LITE * | Lumentum Holdings Inc. | 29.5 | -52% | -33% | 137% | 96 |
+| Utilities | NYSE:VST * | Vistra Corp. | 39.7 | -34% | -18% | 20% | 63 |
+| Utilities | NASDAQ:HNRG * | Hallador Energy Company | 34.6 | -58% | -38% | -18% | 51 |
+| Utilities | NYSE:OKLO * | Oklo Inc. | 36.9 | -79% | -55% | -31% | 45 |
 
 `*` = RSI turning up (hook confirmed)
 

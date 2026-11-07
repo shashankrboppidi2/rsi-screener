@@ -131,6 +131,7 @@ AGI,Alamos Gold Inc.,Basic Materials,Gold,Canada,418604465.0,yfinance
 AGIG,Abundia Global Impact Group Inc,Utilities,Utilities - Renewable,United States,44022821.0,yfinance
 AGIO,"Agios Pharmaceuticals, Inc.",Healthcare,Biotechnology,United States,59701882.0,yfinance
 AGL,"agilon health, inc.",Healthcare,Medical Care Facilities,United States,16683786.0,yfinance
+AGLT,"Agility Robotics, Inc.",Technology,Computer Hardware,United States,227191296.0,yfinance
 AGM,Federal Agricultural Mortgage Corporation,Financial Services,Credit Services,United States,9322129.0,yfinance
 AGM-A,Federal Agricultural Mortgage Corporation,Financial Services,Credit Services,United States,1030780.0,yfinance
 AGMB,AgomAb Therapeutics NV,Healthcare,Biotechnology,Belgium,49247975.0,yfinance
@@ -936,6 +937,7 @@ CCZ,Comcast Holdings Corp.,,,,,yfinance
 CD,Chaince Digital Holdings Inc.,Financial Services,Capital Markets,United States,79443800.0,yfinance
 CDE,"Coeur Mining, Inc.",Basic Materials,Gold,United States,1030534551.0,yfinance
 CDIO,"Cardio Diagnostics Holdings, Inc.",Healthcare,Biotechnology,United States,2959469.0,yfinance
+CDLR,Cadeler plc,Industrials,Engineering & Construction,United Kingdom,88851210.0,yfinance
 CDLX,"Cardlytics, Inc.",Communication Services,Advertising Agencies,United States,5807863.0,yfinance
 CDNA,"CareDx, Inc.",Healthcare,Diagnostics & Research,United States,51734223.0,yfinance
 CDNL,Cardinal Infrastructure Group Inc.,Industrials,Engineering & Construction,United States,19896084.0,yfinance
@@ -1761,6 +1763,7 @@ FFBC,First Financial Bancorp.,Financial Services,Banks - Regional,United States,
 FFIN,"First Financial Bankshares, Inc.",Financial Services,Banks - Regional,United States,143319824.0,yfinance
 FFIV,"F5, Inc.",Technology,Software - Infrastructure,United States,56826000.0,yfinance
 FFR,FF EAI Robotics Ecosystem Inc.,Technology,Computer Hardware,United States,21108884.0,yfinance
+FFTT,Masonglory Limited,Industrials,Engineering & Construction,Hong Kong,3481147.0,yfinance
 FG,"F&G Annuities & Life, Inc.",Financial Services,Insurance - Life,United States,132484990.0,yfinance
 FGBI,"First Guaranty Bancshares, Inc.",Financial Services,Banks - Regional,United States,16539094.0,yfinance
 FGC,FG Communities Holdings Inc.,Financial Services,Asset Management,United States,5095688.0,yfinance
@@ -1996,6 +1999,7 @@ GH,"Guardant Health, Inc.",Healthcare,Diagnostics & Research,United States,13419
 GHC,Graham Holdings Company,Industrials,Conglomerates,United States,3270927.0,yfinance
 GHM,Graham Corporation,Industrials,Specialty Industrial Machinery,United States,11691140.0,yfinance
 GHRS,GH Research PLC,Healthcare,Biotechnology,Ireland,68608919.0,yfinance
+GHXI,"Gores Holdings XI, Inc.",Financial Services,Shell Companies,United States,36105000.0,yfinance
 GIB,CGI Inc.,Technology,Information Technology Services,Canada,182952649.0,yfinance
 GIBO,GIBO Holdings Limited,Communication Services,Internet Content & Information,Hong Kong,2433999.0,yfinance
 GIC,Global Industrial Company,Industrials,Industrial Distribution,United States,38261099.0,yfinance
@@ -3337,6 +3341,7 @@ NU,Nu Holdings Ltd.,Financial Services,Banks - Regional,Brazil,3807883872.0,yfin
 NUAI,"New Era Energy & Digital, Inc.",Technology,Software - Infrastructure,United States,101290928.0,yfinance
 NUCL,Eagle Nuclear Energy Corp.,Energy,Uranium,United States,29579798.0,yfinance
 NUE,Nucor Corporation,Basic Materials,Steel,United States,,yfinance
+NUR,Nuran Wireless Inc.,Technology,Communication Equipment,Canada,13194700.0,yfinance
 NUS,"Nu Skin Enterprises, Inc.",Consumer Defensive,Household & Personal Products,United States,,yfinance
 NUTR,NusaTrip Incorporated,Consumer Cyclical,Travel Services,Indonesia,19379168.0,yfinance
 NUTX,Nutex Health Inc.,Healthcare,Medical Care Facilities,United States,6881339.0,yfinance
@@ -3678,6 +3683,7 @@ PLBC,Plumas Bancorp,Financial Services,Banks - Regional,United States,6964000.0,
 PLBL,Polibeli Group Ltd,Consumer Cyclical,Department Stores,Singapore,319108190.0,yfinance
 PLBY,"Playboy, Inc.",Consumer Cyclical,Leisure,United States,115595238.0,yfinance
 PLCE,"The Children's Place, Inc.",Consumer Cyclical,Apparel Manufacturing,United States,22237067.0,yfinance
+PLCI,Pelican Acquisition II Corporation,Financial Services,Shell Companies,United States,12150250.0,yfinance
 PLD,"Prologis, Inc.",Real Estate,REIT - Industrial,United States,933076000.0,yfinance
 PLG,Platinum Group Metals Ltd.,Basic Materials,Other Precious Metals & Mining,Canada,,yfinance
 PLGO,Pelagos Insurance Capital Limit,Financial Services,Insurance - Diversified,Bermuda,85496757.0,yfinance
@@ -3866,6 +3872,7 @@ QUBT,Quantum Computing Inc.,Technology,Computer Hardware,United States,225534987
 QUCY,Quantum Cyber N.V.,Healthcare,Diagnostics & Research,Germany,22767254.0,yfinance
 QUIK,QuickLogic Corporation,Technology,Semiconductors,United States,17724000.0,yfinance
 QURE,uniQure N.V.,Healthcare,Biotechnology,Netherlands,69366412.0,yfinance
+QVCG,"QVC Group, Inc.",Consumer Cyclical,Specialty Retail,United States,49999897.0,yfinance
 QXL,Quantum X Labs Inc.,Technology,Information Technology Services,Israel,13336392.0,yfinance
 QXO,"QXO, Inc.",Industrials,Industrial Distribution,United States,1037805345.0,yfinance
 R,"Ryder System, Inc.",Industrials,Rental & Leasing Services,United States,38346868.0,yfinance
@@ -4311,6 +4318,7 @@ SNN,Smith & Nephew plc,Healthcare,Medical Devices,United Kingdom,420257919.0,yfi
 SNOA,"Sonoma Pharmaceuticals, Inc.",Healthcare,Drug Manufacturers - Specialty & Generic,United States,4785801.0,yfinance
 SNOW,Snowflake Inc.,Technology,Software - Application,United States,346600000.0,yfinance
 SNPS,"Synopsys, Inc.",Technology,Software - Infrastructure,United States,191479325.0,yfinance
+SNSC,SunScout Holding Limited,Technology,Solar,New Zealand,23100000.0,yfinance
 SNT,Senstar Technologies Corporation,Industrials,Security & Protection Services,Canada,23331653.0,yfinance
 SNTG,Sentage Holdings Inc.,Financial Services,Credit Services,China,2805325.0,yfinance
 SNTI,"Senti Biosciences Holdings, Inc.",Healthcare,Biotechnology,United States,31144754.0,yfinance
@@ -4904,6 +4912,7 @@ VNOM,"Viper Energy, Inc.",Energy,Oil & Gas Midstream,United States,195215345.0,y
 VNRX,VolitionRx Limited,Healthcare,Medical Devices,United States,12044339.0,yfinance
 VNT,Vontier Corporation,Technology,Scientific & Technical Instruments,United States,140800000.0,yfinance
 VNTG,Vantage Corp,Industrials,Marine Shipping,Singapore,11371120.0,yfinance
+VOGX,"Vogenx, Inc.",Healthcare,Biotechnology,United States,14855087.0,yfinance
 VOR,Vor Biopharma Inc.,Healthcare,Biotechnology,United States,54185877.0,yfinance
 VOXR,Vox Royalty Corp.,Basic Materials,Other Precious Metals & Mining,United States,68901746.0,yfinance
 VOYA,"Voya Financial, Inc.",Financial Services,Financial Conglomerates,United States,90666315.0,yfinance
@@ -5020,6 +5029,7 @@ WK,Workiva Inc.,Technology,Software - Application,United States,52549753.0,yfina
 WKC,World Kinect Corporation,Energy,Oil & Gas Refining & Marketing,United States,51151620.0,yfinance
 WKHS,"Workhorse Group, Inc.",Consumer Cyclical,Auto Manufacturers,United States,10893400.0,yfinance
 WKSP,Worksport Ltd.,Consumer Cyclical,Auto Parts,United States,15282595.0,yfinance
+WLCO,Wilco 63 Corporation Class A Ordinary Shares,Financial Services,Shell Companies,Cayman Islands,23000000.0,yfinance
 WLDN,"Willdan Group, Inc.",Industrials,Engineering & Construction,United States,15110606.0,yfinance
 WLDS,Wearable Devices Ltd.,Technology,Consumer Electronics,Israel,2189469.0,yfinance
 WLFC,Willis Lease Finance Corporation,Industrials,Rental & Leasing Services,United States,23899848.0,yfinance
