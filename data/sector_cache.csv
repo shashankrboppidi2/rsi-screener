@@ -880,6 +880,7 @@ CARR,Carrier Global Corporation,Industrials,Building Products & Equipment,United
 CARS,Cars.com Inc.,Communication Services,Internet Content & Information,United States,53532714.0,yfinance
 CART,Maplebear Inc.,Consumer Cyclical,Internet Retail,United States,235029814.0,yfinance
 CASH,"Pathward Financial, Inc.",Financial Services,Banks - Regional,United States,20773362.0,yfinance
+CASK,"Sempreon, Inc.",Consumer Defensive,Beverages - Wineries & Distilleries,United States,21421868.0,yfinance
 CASS,"Cass Information Systems, Inc.",Industrials,Specialty Business Services,United States,12806149.0,yfinance
 CAST,"FreeCast, Inc.",Communication Services,Broadcasting,United States,33655422.0,yfinance
 CASY,"Casey's General Stores, Inc.",Consumer Cyclical,Specialty Retail,United States,37004914.0,yfinance
@@ -982,6 +983,7 @@ CFR,"Cullen/Frost Bankers, Inc.",Financial Services,Banks - Regional,United Stat
 CG,The Carlyle Group Inc.,Financial Services,Asset Management,United States,,yfinance
 CGAU,Centerra Gold Inc.,Basic Materials,Gold,Canada,195607541.0,yfinance
 CGC,Canopy Growth Corporation,Healthcare,Drug Manufacturers - Specialty & Generic,Canada,422154892.0,yfinance
+CGCF,Cartesian Growth Corporation IV,Financial Services,Shell Companies,United States,27500000.0,yfinance
 CGEM,"Cullinan Therapeutics, Inc.",Healthcare,Biotechnology,United States,61458046.0,yfinance
 CGEN,Compugen Ltd.,Healthcare,Biotechnology,Israel,94584636.0,yfinance
 CGNT,Cognyte Software Ltd.,Technology,Software - Infrastructure,Israel,73705907.0,yfinance
@@ -1201,6 +1203,7 @@ CRL,Charles River Laboratories Inte,Healthcare,Diagnostics & Research,United Sta
 CRM,"Salesforce, Inc.",Technology,Software - Application,United States,,yfinance
 CRMD,CorMedix Inc.,Healthcare,Biotechnology,United States,78451891.0,yfinance
 CRML,Critical Metals Corp.,Basic Materials,Other Industrial Metals & Mining,United States,146888753.0,yfinance
+CRMN,Skyline Builders Group Holding Limited,Industrials,Engineering & Construction,Hong Kong,15947094.0,yfinance
 CRMT,"America's Car-Mart, Inc.",Consumer Cyclical,Auto & Truck Dealerships,United States,8327329.0,yfinance
 CRNC,Cerence Inc.,Technology,Software - Application,United States,45187809.0,yfinance
 CRNT,Ceragon Networks Ltd.,Technology,Communication Equipment,Israel,90893695.0,yfinance
@@ -1713,6 +1716,7 @@ FANG,"Diamondback Energy, Inc.",Energy,Oil & Gas E&P,United States,281313297.0,y
 FAST,Fastenal Company,Industrials,Industrial Distribution,United States,1147497573.0,yfinance
 FATE,"Fate Therapeutics, Inc.",Healthcare,Biotechnology,United States,116559186.0,yfinance
 FATN,"FatPipe, Inc.",Technology,Software - Infrastructure,United States,14025468.0,yfinance
+FBDT,"First Breach, Inc.",Industrials,Aerospace & Defense,United States,55776201.0,yfinance
 FBGL,FBS Global Limited,Industrials,Engineering & Construction,Singapore,13500000.0,yfinance
 FBIN,"Fortune Brands Innovations, Inc.",Industrials,Building Products & Equipment,United States,119293417.0,yfinance
 FBIO,"Fortress Biotech, Inc.",Healthcare,Biotechnology,United States,33219072.0,yfinance
@@ -2872,6 +2876,7 @@ LXU,"LSB Industries, Inc.",Basic Materials,Chemicals,United States,71997504.0,yf
 LYB,LyondellBasell Industries NV,Basic Materials,Specialty Chemicals,Netherlands,,yfinance
 LYEL,"Lyell Immunopharma, Inc.",Healthcare,Biotechnology,United States,24504358.0,yfinance
 LYFT,"Lyft, Inc.",Technology,Software - Application,United States,379682532.0,yfinance
+LYNX,Lyntris Inc.,Industrials,Aerospace & Defense,United States,115949384.0,yfinance
 LYTS,LSI Industries Inc.,Technology,Electronic Components,United States,36712404.0,yfinance
 LYV,"Live Nation Entertainment, Inc.",Communication Services,Entertainment,United States,232959505.0,yfinance
 LZ,"LegalZoom.com, Inc.",Industrials,Specialty Business Services,United States,171647764.0,yfinance
@@ -3131,6 +3136,7 @@ MTN,"Vail Resorts, Inc.",Consumer Cyclical,Resorts & Casinos,United States,35633
 MTNB,"Matinas BioPharma Holdings, Inc.",Healthcare,Biotechnology,United States,6406191.0,yfinance
 MTNE,CH4 Natural Solutions Corporation,Financial Services,Shell Companies,United States,22200000.0,yfinance
 MTR,Mesa Royalty Trust,Energy,Oil & Gas E&P,United States,1863590.0,yfinance
+MTRI,"Mentari Therapeutics, Inc.",Healthcare,Biotechnology,United States,58300000.0,yfinance
 MTRN,Materion Corporation,Basic Materials,Other Industrial Metals & Mining,United States,20801485.0,yfinance
 MTRX,Matrix Service Company,Industrials,Engineering & Construction,United States,28133850.0,yfinance
 MTSI,"MACOM Technology Solutions Holdings, Inc.",Technology,Semiconductors,United States,76295774.0,yfinance
@@ -3871,6 +3877,7 @@ QUAD,"Quad/Graphics, Inc.",Industrials,Specialty Business Services,United States
 QUBT,Quantum Computing Inc.,Technology,Computer Hardware,United States,225534987.0,yfinance
 QUCY,Quantum Cyber N.V.,Healthcare,Diagnostics & Research,Germany,22767254.0,yfinance
 QUIK,QuickLogic Corporation,Technology,Semiconductors,United States,17724000.0,yfinance
+QUIT,"Achieve Life Sciences, Inc.",Healthcare,Biotechnology,United States,103102490.0,yfinance
 QURE,uniQure N.V.,Healthcare,Biotechnology,Netherlands,69366412.0,yfinance
 QVCG,"QVC Group, Inc.",Consumer Cyclical,Specialty Retail,United States,49999897.0,yfinance
 QXL,Quantum X Labs Inc.,Technology,Information Technology Services,Israel,13336392.0,yfinance
@@ -4650,6 +4657,7 @@ TRAX,"First Tracks Biotherapeutics, Inc.",Healthcare,Biotechnology,United States
 TRC,Tejon Ranch Co,Industrials,Conglomerates,United States,,yfinance
 TRDA,"Entrada Therapeutics, Inc.",Healthcare,Biotechnology,United States,38820616.0,yfinance
 TREE,"LendingTree, Inc.",Financial Services,Financial Conglomerates,United States,14034240.0,yfinance
+TREO,Tactical Resources Corp.,Basic Materials,Other Industrial Metals & Mining,Canada,13612034.0,yfinance
 TREX,"Trex Company, Inc.",Industrials,Building Products & Equipment,United States,103898729.0,yfinance
 TRGP,Targa Resources Corp.,Energy,Oil & Gas Midstream,United States,214643903.0,yfinance
 TRGS,TRG Latin America Acquisitions Corp.,Financial Services,Shell Companies,United States,20857000.0,yfinance
@@ -4725,6 +4733,7 @@ TWLO,Twilio Inc.,Technology,Software - Infrastructure,United States,151773860.0,
 TWLV,Twelve Seas Investment Company III,Financial Services,Shell Companies,United States,17745000.0,yfinance
 TWO,Two Harbors Investment Corp.,Real Estate,REIT - Mortgage,United States,105133008.0,yfinance
 TWST,Twist Bioscience Corporation,Healthcare,Diagnostics & Research,United States,62271314.0,yfinance
+TXCP,"Texas Capital Bancshares, Inc.",Financial Services,Banks - Regional,United States,43474369.0,yfinance
 TXG,"10x Genomics, Inc.",Healthcare,Health Information Services,United States,116877317.0,yfinance
 TXMD,"TherapeuticsMD, Inc.",Healthcare,Drug Manufacturers - Specialty & Generic,United States,11574362.0,yfinance
 TXN,Texas Instruments Incorporated,Technology,Semiconductors,United States,913247686.0,yfinance
