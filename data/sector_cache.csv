@@ -72,6 +72,7 @@ AD,"Array Digital Infrastructure, Inc.",Communication Services,Telecom Services,
 ADAG,Adagene Inc.,Healthcare,Biotechnology,China,66072594.0,yfinance
 ADAM,"Adamas Trust, Inc.",Real Estate,REIT - Mortgage,United States,89879786.0,yfinance
 ADBE,Adobe Inc.,Technology,Software - Application,United States,397500000.0,yfinance
+ADBT,"Advasa Holdings, Inc.",Technology,Software - Application,Japan,,yfinance
 ADC,Agree Realty Corporation,Real Estate,REIT - Retail,United States,120102859.0,yfinance
 ADCT,ADC Therapeutics SA,Healthcare,Drug Manufacturers - Specialty & Generic,Switzerland,127191158.0,yfinance
 ADEA,Adeia Inc.,Technology,Software - Application,United States,110293749.0,yfinance
@@ -1321,6 +1322,7 @@ CZFS,"Citizens Financial Services, Inc.",Financial Services,Banks - Regional,Uni
 CZNC,Citizens & Northern Corporation,Financial Services,Banks - Regional,United States,17942105.0,yfinance
 CZR,"Caesars Entertainment, Inc.",Consumer Cyclical,Resorts & Casinos,United States,203720372.0,yfinance
 CZWI,"Citizens Community Bancorp, Inc.",Financial Services,Banks - Regional,United States,9650231.0,yfinance
+CZZL,Cizzle Brands Corporation Common Stock,Consumer Defensive,Packaged Foods,Canada,9217366.0,yfinance
 D,"Dominion Energy, Inc.",Utilities,Utilities - Regulated Electric,United States,879525949.0,yfinance
 DAC,Danaos Corporation,Industrials,Marine Shipping,Greece,,yfinance
 DAIC,"CID HoldCo, Inc.",Technology,Information Technology Services,United States,1210383.0,yfinance
@@ -1823,6 +1825,7 @@ FLYX,"flyExclusive, Inc.",Industrials,Airlines,United States,51781193.0,yfinance
 FLZH,"Flash Sports & Media Holdings, Inc.",Communication Services,Broadcasting,United States,53539119.0,yfinance
 FMAO,"Farmers & Merchants Bancorp, Inc.",Financial Services,Banks - Regional,United States,13768188.0,yfinance
 FMBH,"First Mid Bancshares, Inc.",Financial Services,Banks - Regional,United States,26615796.0,yfinance
+FMBM,F & M Bank Corp.,Financial Services,Banks - Regional,United States,3589381.0,yfinance
 FMC,FMC Corporation,Basic Materials,Agricultural Inputs,United States,125226839.0,yfinance
 FMFC,Kandal M Venture Limited,Consumer Cyclical,Footwear & Accessories,Cambodia,15300000.0,yfinance
 FMNB,Farmers National Banc Corp.,Financial Services,Banks - Regional,United States,59215021.0,yfinance
@@ -2136,6 +2139,7 @@ GTN,"Gray Media, Inc.",Communication Services,Broadcasting,United States,,yfinan
 GTN-A,"Gray Media, Inc.",Communication Services,Broadcasting,United States,9869307.0,yfinance
 GTX,Garrett Motion Inc.,Consumer Cyclical,Auto Parts,United States,186493414.0,yfinance
 GTY,Getty Realty Corporation,Real Estate,REIT - Retail,United States,61932699.0,yfinance
+GUER,"Guerrilla RF, Inc. Common Stock",Technology,Semiconductors,United States,10915344.0,yfinance
 GURE,"Gulf Resources, Inc.",Basic Materials,Chemicals,China,1539531.0,yfinance
 GUT,,Financial Services,Asset Management,United States,,yfinance
 GUTS,"Fractyl Health, Inc.",Healthcare,Biotechnology,United States,158648963.0,yfinance
@@ -3492,6 +3496,7 @@ OPCH,"Option Care Health, Inc.",Healthcare,Medical Care Facilities,United States
 OPEN,Opendoor Technologies Inc.,Real Estate,Real Estate Services,United States,964736632.0,yfinance
 OPFI,OppFi Inc.,Financial Services,Credit Services,United States,85393248.0,yfinance
 OPHC,"OptimumBank Holdings, Inc.",Financial Services,Banks - Regional,United States,12268363.0,yfinance
+OPHI,CollPlant Biotechnologies Ltd.,Healthcare,Biotechnology,Israel,3075561.0,yfinance
 OPI,Office Properties Income Trust,Real Estate,REIT - Office,United States,21953577.0,yfinance
 OPK,"OPKO Health, Inc.",Healthcare,Diagnostics & Research,United States,746328225.0,yfinance
 OPLN,"OPENLANE, Inc.",Consumer Cyclical,Auto & Truck Dealerships,United States,105946106.0,yfinance
@@ -4937,6 +4942,7 @@ VRM,"Vroom, Inc.",Financial Services,Credit Services,United States,5207627.0,yfi
 VRME,"VerifyMe, Inc.",Industrials,Security & Protection Services,United States,13119065.0,yfinance
 VRNS,"Varonis Systems, Inc.",Technology,Software - Infrastructure,United States,114860485.0,yfinance
 VRRM,Verra Mobility Corporation,Technology,Information Technology Services,United States,151906653.0,yfinance
+VRSA,Versa Bancorp,Financial Services,Banks - Regional,United States,32419079.0,yfinance
 VRSK,"Verisk Analytics, Inc.",Industrials,Consulting Services,United States,130156012.0,yfinance
 VRSN,"VeriSign, Inc.",Technology,Software - Infrastructure,United States,90400000.0,yfinance
 VRT,Vertiv Holdings Co,Industrials,Electrical Equipment & Parts,United States,384988173.0,yfinance
@@ -5118,6 +5124,7 @@ XFLH,XFLH Capital Corporation,Financial Services,Shell Companies,United States,1
 XFLT,XAI Floating Rate & Alternative Income Trust,Financial Services,Asset Management,United States,15230884.0,yfinance
 XFOR,"X4 Pharmaceuticals, Inc.",Healthcare,Biotechnology,United States,94319696.0,yfinance
 XGN,Exagen Inc.,Healthcare,Diagnostics & Research,United States,24159839.0,yfinance
+XGPU,"Reliance Global Group, Inc.",Financial Services,Insurance Brokers,United States,1679936.0,yfinance
 XHLD,"TEN Holdings, Inc.",Communication Services,Broadcasting,United States,11977443.0,yfinance
 XHR,"Xenia Hotels & Resorts, Inc.",Real Estate,REIT - Hotel & Motel,United States,92245835.0,yfinance
 XLAB,Exascale Labs Holdings Inc.,Technology,Software - Infrastructure,United States,32456000.0,yfinance
@@ -5142,6 +5149,7 @@ XRPN,"Evernorth Holdings, Inc.",Financial Services,Capital Markets,United States
 XRTX,XORTX Therapeutics Inc.,Healthcare,Biotechnology,Canada,1730565.0,yfinance
 XRX,Xerox Holdings Corporation,Industrials,Business Equipment & Supplies,United States,131243000.0,yfinance
 XSLL,Xsolla SPAC 1,Financial Services,Shell Companies,United States,20873579.0,yfinance
+XTER,Xterax Corporation II,Financial Services,Shell Companies,United States,20650000.0,yfinance
 XTIA,"XTI Aerospace, Inc.",Industrials,Aerospace & Defense,United States,38477789.0,yfinance
 XTNT,"Xtant Medical Holdings, Inc.",Healthcare,Medical Devices,United States,140262960.0,yfinance
 XWEL,"XWELL, Inc.",Healthcare,Diagnostics & Research,United States,8444266.0,yfinance
@@ -5217,3 +5225,4 @@ ZVRA,"Zevra Therapeutics, Inc.",Healthcare,Biotechnology,United States,59115084.
 ZWS,Zurn Elkay Water Solutions Corporation,Industrials,Pollution & Treatment Controls,United States,165864097.0,yfinance
 ZYBT,Zhengye Biotechnology Holding Limited,Healthcare,Drug Manufacturers - Specialty & Generic,China,47391376.0,yfinance
 ZYME,Zymeworks Inc.,Healthcare,Biotechnology,United States,73023061.0,yfinance
+ZYN,PTL Limited,Consumer Cyclical,Specialty Retail,Singapore,6140497.0,yfinance

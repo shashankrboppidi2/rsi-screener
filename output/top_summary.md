@@ -1,40 +1,40 @@
-Ranked 576 candidates from 3722 symbols (trend weight 0.50, RSI<= decile 3)
+Ranked 631 candidates from 3660 symbols (trend weight 0.50, RSI<= decile 3)
 
 | Sector | Ticker | Company | RSI | 52wHi | vs 200d | vs 4y | Score |
 |---|---|---|---|---|---|---|---|
-| Basic Materials | NASDAQ:CLMT | Calumet, Inc | 22.9 | -42% | -13% | 61% | 92 |
-| Basic Materials | NASDAQ:SCZM | Santacruz Silver Mining Ltd. | 40.2 | -58% | -19% | 103% | 89 |
-| Basic Materials | NYSE:ARIS | Aris Mining Corporation | 40.4 | -35% | -17% | 101% | 89 |
-| Communication Services | NYSE:IMAX * | Imax Corporation | 40.6 | -14% | 11% | 85% | 87 |
-| Communication Services | NASDAQ:GOOG | Alphabet Inc. - Class C Capi | 39.5 | -27% | -13% | 47% | 79 |
-| Communication Services | NASDAQ:GOOGL | Alphabet Inc. | 40.6 | -26% | -13% | 49% | 79 |
-| Consumer Cyclical | NASDAQ:TILE | Interface, Inc. | 35.1 | -23% | -4% | 57% | 87 |
-| Consumer Cyclical | NASDAQ:GTX | Garrett Motion Inc. | 40.1 | -42% | -18% | 66% | 84 |
-| Consumer Cyclical | NYSE:HBB | Hamilton Beach Brands Holdin | 41.7 | -20% | 27% | 78% | 84 |
-| Consumer Defensive | NASDAQ:APEI | American Public Education, I | 42.5 | -33% | -18% | 71% | 82 |
-| Consumer Defensive | NASDAQ:ANDE | The Andersons, Inc. | 28.2 | -31% | -19% | 13% | 70 |
-| Consumer Defensive | NASDAQ:PRDO | Perdoceo Education Corporati | 40.3 | -23% | -12% | 24% | 68 |
-| Energy | NYSE:DINO | HF Sinclair Corporation | 39.8 | -20% | 27% | 100% | 89 |
-| Energy | NYSE:EFXT | Enerflex Ltd | 40.6 | -29% | -11% | 95% | 88 |
-| Energy | NYSE:PBR | Petroleo Brasileiro S.A. Pet | 28.8 | -30% | -3% | 49% | 87 |
-| Financial Services | NASDAQ:EZPW * | EZCORP, Inc. - Class A Non-V | 38.4 | -23% | -8% | 79% | 88 |
-| Financial Services | NASDAQ:HOOD | Robinhood Markets, Inc. | 33.2 | -43% | -15% | 55% | 87 |
-| Financial Services | NYSE:HRTG * | Heritage Insurance Holdings, | 42.1 | -11% | 16% | 123% | 87 |
-| Healthcare | NASDAQ:AVAH | Aveanna Healthcare Holdings  | 32.9 | -20% | 22% | 134% | 96 |
-| Healthcare | NASDAQ:SLS | SELLAS Life Sciences Group,  | 34.7 | -49% | -11% | 160% | 96 |
-| Healthcare | NASDAQ:NTRA | Natera, Inc. | 34.1 | -27% | 18% | 125% | 95 |
-| Industrials | NYSE:PBI | Pitney Bowes Inc. | 39.0 | -15% | 4% | 97% | 90 |
-| Industrials | NYSE:MATX | Matson, Inc. | 36.1 | -12% | 7% | 72% | 89 |
-| Industrials | NYSE:FIX | Comfort Systems USA, Inc. | 39.1 | -46% | -31% | 80% | 88 |
-| Real Estate | NASDAQ:DHC | Diversified Healthcare Trust | 40.0 | -25% | -8% | 96% | 89 |
-| Real Estate | NASDAQ:ILPT * | Industrial Logistics Propert | 35.6 | -33% | -16% | 36% | 78 |
-| Real Estate | NYSE:NLY * | Annaly Capital Management In | 36.5 | -23% | -14% | 12% | 66 |
-| Technology | NASDAQ:PAYS | Paysign, Inc. | 26.9 | -39% | 9% | 103% | 97 |
-| Technology | NYSE:DELL | Dell Technologies Inc. | 36.1 | -41% | 1% | 143% | 94 |
-| Technology | NASDAQ:LITE | Lumentum Holdings Inc. | 37.5 | -47% | -27% | 159% | 93 |
-| Utilities | NASDAQ:CWCO | Consolidated Water Co. Ltd. | 30.1 | -34% | -19% | -6% | 62 |
-| Utilities | NYSE:KEP | Korea Electric Power Corpora | 36.9 | -56% | -26% | 2% | 61 |
-| Utilities | NASDAQ:FLNC | Fluence Energy, Inc. | 33.9 | -85% | -67% | -72% | 48 |
+| Basic Materials | NYSE:CGAU | Centerra Gold Inc. | 28.5 | -31% | -12% | 81% | 91 |
+| Basic Materials | NYSE:ARIS | Aris Mining Corporation | 28.1 | -47% | -32% | 63% | 89 |
+| Basic Materials | NASDAQ:CLMT | Calumet, Inc | 21.4 | -48% | -23% | 43% | 89 |
+| Communication Services | NASDAQ:GOOG | Alphabet Inc. - Class C Capi | 26.8 | -34% | -21% | 32% | 81 |
+| Communication Services | NASDAQ:GOOGL | Alphabet Inc. | 27.8 | -34% | -21% | 33% | 81 |
+| Communication Services | NYSE:WLY | John Wiley & Sons, Inc. | 32.0 | -17% | 4% | 22% | 69 |
+| Consumer Cyclical | NYSE:GEF.B | Greif, Inc. Corporation | 25.3 | -20% | -1% | 37% | 85 |
+| Consumer Cyclical | NASDAQ:LQDT | Liquidity Services, Inc. | 20.6 | -32% | -16% | 28% | 82 |
+| Consumer Cyclical | NASDAQ:KRT | Karat Packaging Inc. | 20.7 | -45% | -18% | 25% | 81 |
+| Consumer Defensive | NASDAQ:LAUR | Laureate Education, Inc. | 32.0 | -21% | -10% | 52% | 81 |
+| Consumer Defensive | NASDAQ:MAMA | Mama's Creations, Inc. | 30.8 | -46% | -27% | 39% | 79 |
+| Consumer Defensive | NYSE:PM | Philip Morris International  | 32.7 | -13% | 2% | 46% | 78 |
+| Energy | NYSE:DINO | HF Sinclair Corporation | 26.0 | -32% | 8% | 71% | 93 |
+| Energy | NYSE:FTI | TechnipFMC plc | 30.5 | -27% | -16% | 70% | 87 |
+| Energy | NYSE:EFXT | Enerflex Ltd | 31.9 | -37% | -22% | 71% | 85 |
+| Financial Services | NYSE:AAMI | Acadian Asset Management Inc | 29.9 | -18% | 5% | 116% | 91 |
+| Financial Services | NYSE:CM | Canadian Imperial Bank of Co | 26.4 | -16% | -6% | 61% | 91 |
+| Financial Services | NYSE:MUFG | Mitsubishi UFJ Financial Gro | 25.3 | -23% | -8% | 51% | 90 |
+| Healthcare | NASDAQ:PSNL | Personalis, Inc. | 24.8 | -22% | 22% | 167% | 98 |
+| Healthcare | NASDAQ:NTRA | Natera, Inc. | 26.1 | -37% | 0% | 91% | 95 |
+| Healthcare | NASDAQ:HALO | Halozyme Therapeutics, Inc. | 20.0 | -30% | 6% | 58% | 94 |
+| Industrials | NYSE:PBI | Pitney Bowes Inc. | 30.4 | -20% | -3% | 85% | 89 |
+| Industrials | NYSE:BE | Bloom Energy Corporation | 32.4 | -59% | -36% | 109% | 87 |
+| Industrials | NYSE:MATX | Matson, Inc. | 31.1 | -16% | 2% | 64% | 85 |
+| Real Estate | NASDAQ:ILPT | Industrial Logistics Propert | 27.6 | -39% | -23% | 25% | 77 |
+| Real Estate | NYSE:NLY | Annaly Capital Management In | 29.0 | -26% | -17% | 7% | 65 |
+| Real Estate | NASDAQ:AGNC | AGNC Investment Corp. | 27.6 | -29% | -20% | 2% | 65 |
+| Technology | NASDAQ:PLTR | Palantir Technologies Inc. | 26.4 | -31% | -7% | 78% | 93 |
+| Technology | NYSE:DELL | Dell Technologies Inc. | 28.5 | -53% | -20% | 94% | 92 |
+| Technology | NASDAQ:MU | Micron Technology, Inc. | 29.5 | -51% | -23% | 147% | 92 |
+| Utilities | NYSE:KEP | Korea Electric Power Corpora | 26.2 | -61% | -32% | -9% | 61 |
+| Utilities | NASDAQ:CWCO | Consolidated Water Co. Ltd. | 27.3 | -36% | -21% | -9% | 60 |
+| Utilities | NYSE:CWEN | Clearway Energy, Inc. | 32.3 | -30% | -18% | 6% | 60 |
 
 `*` = RSI turning up (hook confirmed)
 
